@@ -3,6 +3,8 @@ JavaScript es un lenguaje de programación que permite que las páginas web sean
 imaginarme una página web como un restaurante:
 
 // **HTML** = La estructura (mesas, paredes).
+
 // **CSS** = El diseño (colores, decoración).
+
 // **JavaScript** = EL personal que atiende y responde (acciones, movimientos).
 
